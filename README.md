@@ -58,8 +58,8 @@ This were the hyperparameters:
 
 | Test/Train     | Score       |
 | ----------- | ----------- |
-| Test  | 0.80       |
-| Train | 0.89 |
+| Test  | 0.85       |
+| Train | 0.88 |
 
 
 ## About the team
