@@ -1,0 +1,26 @@
+certifi==2020.6.20
+cycler==0.10.0
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+kiwisolver @ file:///D:/bld/kiwisolver_1610099949969/work
+matplotlib @ file:///D:/bld/matplotlib-suite_1628521379572/work
+mkl-fft==1.2.0
+mkl-random==1.0.4
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1596233945180/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+pandas @ file:///C:/ci/pandas_1602088205210/work
+Pillow @ file:///D:/bld/pillow_1625677957583/work
+pyparsing==2.4.7
+PyQt5==5.12.3
+PyQt5-sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+python-dateutil==2.8.1
+pytz==2020.1
+scikit-learn @ file:///C:/ci/scikit-learn_1598376983131/work
+scipy @ file:///C:/ci/scipy_1616703425152/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+six==1.15.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tornado @ file:///D:/bld/tornado_1610094878337/work
+wincertstore==0.2
